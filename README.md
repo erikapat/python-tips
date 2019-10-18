@@ -1,4 +1,4 @@
 # python-tips
 
 
-Experiment mostly with python.
+Experiments mostly with python.
