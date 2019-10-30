@@ -22,3 +22,7 @@ This repo contains experiments or interesting commands and modules that may be u
 
 > **R_Python_combination:** how to use R and Python together in a notebook (also it is possible to use them together in scripts).
 
+> **Hacking with python:** (forthcoming)
+
+> **Automatic Feature Selection: **
+
