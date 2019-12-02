@@ -1,6 +1,6 @@
 # Python Tips
 
-This repo contains experiments or interesting commands and modules that may be useful for presentations/projects/etc
+This repo contains experiments or interesting libraries and modules that may be useful for presentations/projects/etc
 
 **Experiments are mostly developed with python:**
 
@@ -24,5 +24,11 @@ This repo contains experiments or interesting commands and modules that may be u
 
 > **Hacking with python:** (forthcoming)
 
-> **Automatic Feature Selection: **
+> **Automatic Feature Engieeniering:**
+
+> **Docker (folder):** examples of how to create dockers (WALKTHROUGH.ipynb)
+
+> **References:** list of references of interest
+
+>  **Unit test in git (folder):** How to do automatic unit tests in git
 

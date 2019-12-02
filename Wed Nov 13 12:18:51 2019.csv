@@ -1,6 +1,0 @@
-Conv0 active,Conv0 num filters,Conv0 batch normalization,Conv0 activation,Conv0 dropout,Conv0 max pooling,Conv1 active,Conv1 num filters,Conv1 batch normalization,Conv1 activation,Conv1 dropout,Conv1 max pooling,Conv2 active,Conv2 num filters,Conv2 batch normalization,Conv2 activation,Conv2 dropout,Conv2 max pooling,Conv3 active,Conv3 num filters,Conv3 batch normalization,Conv3 activation,Conv3 dropout,Conv3 max pooling,Conv4 active,Conv4 num filters,Conv4 batch normalization,Conv4 activation,Conv4 dropout,Conv4 max pooling,Conv5 active,Conv5 num filters,Conv5 batch normalization,Conv5 activation,Conv5 dropout,Conv5 max pooling,Dense0 active,Dense0 num nodes,Dense0 batch normalization,Dense0 activation,Dense0 dropout,Optimizer,Val Loss,Val Accuracy
-1,64,0,0,5,0,0,8,1,0,6,1,1,16,1,0,6,2,0,256,0,1,3,0,0,256,1,0,6,1,1,256,1,1,7,1,0,128,0,0,3,1,14.454707752990723,0.1032
-1,64,0,1,6,2,0,128,0,0,8,0,1,256,0,1,2,1,0,16,1,1,8,1,1,8,1,1,5,0,0,16,1,0,4,0,0,16,1,1,2,1,0.8863172743082046,0.7027
-1,128,0,1,3,1,1,64,1,0,10,1,0,32,0,0,1,2,0,128,0,0,4,2,1,32,0,0,6,0,0,16,0,0,7,0,0,16,1,1,10,3,0.49226721968650816,0.8432
-1,64,1,1,2,1,0,32,0,1,2,0,1,128,1,1,10,2,0,64,1,1,9,2,0,32,0,1,1,1,0,128,0,1,5,2,1,1024,0,0,5,3,14.491779391479492,0.1009
-1,32,1,1,1,2,0,8,1,1,4,1,0,64,1,0,9,0,0,32,0,1,6,1,0,128,1,0,0,0,0,8,0,0,3,2,0,512,0,0,2,2,14.538521841430665,0.098
