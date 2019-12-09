@@ -30,5 +30,7 @@ This repo contains experiments or interesting libraries and modules that may be 
 
 > **References:** list of references of interest
 
+>  **Conda_enviroments:** How to set conda enviroments.
+
 >  **Unit test in git (folder):** How to do automatic unit tests in git
 
