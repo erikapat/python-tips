@@ -26,8 +26,6 @@ This repo contains experiments or interesting libraries and modules that may be 
 
 > **Automatic Feature Engieeniering:**
 
-> **Docker (folder):** examples of how to create dockers (WALKTHROUGH.ipynb)
-
 > **References:** list of references of interest
 
 >  **Conda_enviroments:** How to set conda enviroments.
@@ -37,4 +35,6 @@ This repo contains experiments or interesting libraries and modules that may be 
 > **LastpackagesUpdates**: last updates
 
 > **ui applications**
+
+
 
